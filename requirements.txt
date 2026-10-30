@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pyodbc
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+oracledb
+aiohttp
+pymysql
